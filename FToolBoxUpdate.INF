@@ -1,15 +1,4 @@
-[files]
-count=1
-
 [update]
-unconditional=1
-
-[file1]
+update=1
 url=https://github.com/fabi20x/flux-tools/blob/main/FToolBox_flux_nonstable_001.exe
-newversion=1.1.0.0
-localversion=FToolBox_flux.exe
 
-[application]
-appupdate=1
-appname=FToolBox_flux.exe
-appcomps=FToolBox_flux.exe_NEW
