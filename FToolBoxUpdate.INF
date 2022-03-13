@@ -6,7 +6,7 @@ localversion=FToolBox_flux.exe
 count=1
 
 [file1]
-url=C:\Users\fwild\OneDrive\Dokumente\Embarcadero\Studio\Projekte\sshtest\Win32\Update/FToolBox_flux.exe_NEW
+url=https://github.com/fabi20x/flux-tools/raw/main/FToolBox_flux.exe_NEW
 newversion=1.0.0.2
 localversion=FToolBox_flux.exe
 targetdir={app}
