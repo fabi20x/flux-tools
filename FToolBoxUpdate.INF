@@ -1,8 +1,11 @@
 [files]
 count=1
 
+[update]
+unconditional=1
+
 [file1]
-url=https://github.com/fabi20x/flux-tools/blob/main\FToolBox_flux.CAB
+url=https://github.com/fabi20x/flux-tools/blob/main\FToolBox_flux.exe
 newversion=1.0.0.0
 localversion=FToolBox_flux.exe
 compressed=0
