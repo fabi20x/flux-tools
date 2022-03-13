@@ -6,11 +6,10 @@ unconditional=1
 
 [file1]
 url=https://github.com/fabi20x/flux-tools/blob/main/FToolBox_flux_nonstable_001.exe
-newversion=1.0.0.0
+newversion=1.1.0.0
 localversion=FToolBox_flux.exe
-compressed=0
 
 [application]
 appupdate=1
 appname=FToolBox_flux.exe
-appcomps=FToolBox_flux.exe_ 
+appcomps=FToolBox_flux.exe_NEW
