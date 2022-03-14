@@ -1,4 +1,4 @@
-﻿[update]
+[update]
 newversion=1.0.0.3
 localversion=FToolBox_flux.exe
 
@@ -10,7 +10,6 @@ url=https://github.com/fabi20x/flux-tools/raw/main/FToolBox_flux.exe_NEW
 newversion=1.0.0.3
 localversion=FToolBox_flux.exe
 targetdir={app}
-filesize=48700416
 
 [application]
 appupdate=1
