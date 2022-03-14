@@ -12,3 +12,7 @@ localversion=FToolBox_flux.exe
 targetdir={app}
 filesize=48700416
 
+[application]
+appupdate=1
+appname=FToolBox_flux.exe
+appcomps=FToolBox_flux.exe_NEW 
