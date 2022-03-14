@@ -1,4 +1,4 @@
-﻿[update]
+[update]
 newversion=1.0.0.4
 localversion=FToolBox_flux.exe
 
@@ -15,4 +15,6 @@ filesize=48700416
 [application]
 appupdate=1
 appname=FToolBox_flux.exe
-appcomps=FToolBox_flux.exe_NEW 
+appcomps=FToolBox_flux.exe_NEW
+
+
