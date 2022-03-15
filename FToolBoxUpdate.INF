@@ -1,5 +1,5 @@
 ﻿[update]
-newversion=1.0.0.13
+newversion=1.0.0.15
 localversion=FToolBox_flux.exe
 
 [files]
@@ -7,13 +7,12 @@ count=1
 
 [file1]
 url=https://github.com/fabi20x/flux-tools/raw/main/FToolBox_flux.exe_NEW
-newversion=1.0.0.13
+newversion=1.0.0.15
 localversion=FToolBox_flux.exe
-targetdir={appdata}
-filesize=48722944
+targetdir={app}
 
 [application]
 appupdate=1
 appname=FToolBox_flux.exe
-appcomps=FToolBox_flux.exe_NEW
+appcomps=FToolBox_flux.exe_NEW 
 
